@@ -8,15 +8,15 @@ from timer import Timer
 
 
 def test_basic(numer):
-    a = randint(0, 9)
-    b = randint(0, 9)
-    c = randint(0, 9)
-    d = randint(0, 9)
-    e = randint(0, 9)
-    f = randint(0, 9)
-    g = randint(0, 9)
-    h = randint(0, 9)
-    i = randint(0, 9)
+    a = randint(1, 9)
+    b = randint(1, 9)
+    c = randint(1, 9)
+    d = randint(1, 9)
+    e = randint(1, 9)
+    f = randint(1, 9)
+    g = randint(1, 9)
+    h = randint(1, 9)
+    i = randint(1, 9)
     randy = [('A', a), ('B', b), ('C', c), ('D', d), ('E', e), ('F', f), ('G', g), ('H', h), ('I', i)]
     inpu = []
     for u in range(numer):
