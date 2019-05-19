@@ -4,3 +4,5 @@ Course: Technische Informatik
 
 install dependencies with python setup.py install in the correct directory,
 which is the one you extract the zip/tar-gz to
+
+Kudos and thanks to the owners of the used libraries.
